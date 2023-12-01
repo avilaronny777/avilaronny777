@@ -10,5 +10,3 @@ HTML, CSS, Javascript, Java, Python e Git.
 Figma e Canva.
 
 ## Projetos que estão em desenvolvimento 
-
-Criação de um site de uma loja de vendas de açaí.
