@@ -8,5 +8,3 @@ meu nome é Ávila Ronny e sou estudante de Ciências da computação, atualment
 
 HTML, CSS, Javascript, Java, Python e Git.
 Figma e Canva.
-
-## Projetos que estão em desenvolvimento 
